@@ -83,8 +83,8 @@ The Crypto App is powered by the CoinGecko API, which provides the latest crypto
 
 ### Credit
 
-This project was inspired by or based on
-[Crypto App](https://github.com/Moslihbadr/crypto-app) by [Moslih Badr](https://github.com/Moslihbadr). This project provides the foundation for cryptocurrency-related features in my app. 
+This project was inspired based on
+[Crypto App](https://github.com/Moslihbadr/crypto-app). This project provides the foundation for cryptocurrency-related features in my app. 
 
 ### License
 
