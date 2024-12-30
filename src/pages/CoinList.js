@@ -40,7 +40,7 @@ const CoinList = () => {
   return (
     <div className="App container-fluid">
     <header className="mt-4 mb-3">
-      <h1 className="text-light text-center">Top 100 MC by ASC</h1>
+      <h1 className="text-light text-center">Top 100 Market Cap by ASC</h1>
       <SearchBar getDataCoins={getDataCoins} filterCoins={filterCoins} />
     </header>
     <div className="table-responsive">
