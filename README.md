@@ -22,7 +22,7 @@ To get started with the Crypto App, follow these instructions:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone proland://c9aaf087-e850-4a5d-b691-720f3958ec6a crypto-app-2
+git clone https://github.com/hanifdamarjati20/crypto-app-2
 ```
 2. Change into the project directory:
 ```bash
@@ -56,7 +56,7 @@ The Crypto App is built using the following technologies:
 - SweetAlert2: A JavaScript library for creating beautiful, responsive, and customizable alert dialogs.
 
 ## Live View
-Visit the [Live View](https://react-cryptocurrencyapp.netlify.app) to see the app in action.
+Build for Test Deployment on [Arlink](https://arlink.arweave.net)  & Visit the [Live View](https://react-cryptocurrencyapp.netlify.app) to see the app in action.
 
 ## Usage
 1. Home Page:
